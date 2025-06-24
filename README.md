@@ -20,4 +20,3 @@ Suporte Multilíngue: Interface disponível em Português, Inglês e Francês.
 
 Elevação Automática: Solicita automaticamente privilégios de administrador, essenciais para uma limpeza profunda.
 
-Seguro e Protegido: O código-fonte é ofuscado para proteger a lógica interna e evitar modificações acidentais.
